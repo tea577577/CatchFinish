@@ -16,7 +16,7 @@ public class Ball : MonoBehaviour
 
         //球持續向左移動
 
-        this.transform.position += new Vector3(-0.05f,0, 0);
+        this.transform.position += new Vector3(-0.08f,0, 0);
 
         //if()
         {
