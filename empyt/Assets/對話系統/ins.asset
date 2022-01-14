@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d805d28b0cb91c542ba0958eb6f91e2e, type: 3}
+  m_Name: ins
+  m_EditorClassIdentifier: 
+  dialogues:
+  - "\u6309\u4E0B\u9375\u76E4\u4E0A\u9375\u70BA   \u8DF3\u8D77 \u2191\n\u7B2C\u4E8C\u4E0B\u4E0A\u9375\u70BA    
+    \u4E8C\u6BB5\u8DF3 \u2191\u2191\n\u904A\u6232\u958B\u59CB\u6709\u4E09\u9846\u5FC3\n\u78B0\u5230\u4FDD\u9F61\u7403\u3001\u5DE7\u514B\u529B\u7403\u6E1B\u4E00\u9846\u5FC3\n\u78B0\u5230\u7403\u985E\u52A0
+    10 \u5206\n\u6700\u5F8C\u7D50\u7B97\u5206\u6578"
